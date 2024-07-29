@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Piyush Ahuja 
+## Hi there 👋 I'm Piyush Ahuja 
 
 <!--
 **ahujapiyush/ahujapiyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🥳 Completed Projects
+### 🥳 Completed Projects
 1) Whatsapp Clone - https://github.com/ahujapiyush/whatsapp
