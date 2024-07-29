@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🥳 Completed Projects
+## 🥳 Completed Projects
 1) Whatsapp Clone - https://github.com/ahujapiyush/whatsapp
 Using - React native , expo , clerk (For Otp Generation)
 
 2) todo-list-express - https://github.com/ahujapiyush/todo-list-express
 using node , express js ,  mongo db
 
-## 🔭 I’m currently working on ...
-3) expensify - https://github.com/ahujapiyush/expensify
+## 🔭 I’m currently working on -
+1) expensify - https://github.com/ahujapiyush/expensify
