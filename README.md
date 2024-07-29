@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🥳 Completed Projects
 1) Whatsapp Clone - https://github.com/ahujapiyush/whatsapp
-Using - React native , expo
+Using - React native , expo , clerk (For Otp Generation)
 
 2) todo-list-express - https://github.com/ahujapiyush/todo-list-express
 using node , express js ,  mongo db
